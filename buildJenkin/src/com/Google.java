@@ -15,6 +15,7 @@ public class Google {
 		
 		driver.manage().window().maximize();
 		
+		System.out.println("Updated build to check after build jenkin runs batch or not !");
 		
 
 	}
