@@ -17,7 +17,7 @@ public class Google {
 		
 		System.out.println("Updated build to check after build jenkin runs batch or not !");
 		
-		System.out.println("jsdjkskjsbkj");
+		
 	}
 
 }
